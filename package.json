@@ -1,0 +1,25 @@
+{
+  "name": "chatbot-by-rash",
+  "version": "1.0.0",
+  "description": "Chatbot development challenge",
+  "main": "app.js",
+  "dependencies": {
+    "botbuilder": "^3.14.1",
+    "dotenv": "^5.0.1",
+    "marketcloud-node": "^2.2.0",
+    "restify": "^7.1.1"
+  },
+  "devDependencies": {
+    "@types/restify": "^5.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rash-96@bitbucket.org/rash-96/chatbot-by-rash.git"
+  },
+  "author": "Renzo Sánchez Hurtado",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/rash-96/chatbot-by-rash#readme"
+}
