@@ -1,4 +1,4 @@
-# [AMBotChallenge](https://github.com/lone-wolf-96/AMBotChallenge/)
+# [AMBotChallenge](https://github.com/mr-wolf-rsh/AMBotChallenge/)
 
 This was a personal challenge, to create a bot using Microsoft Bot Framework for Node.js.
 
@@ -12,12 +12,12 @@ It requires no other installation than having Node.js.
 
 ### Other instructions
 
-Some other instructions can be found here [Poker Calculator in JavaScript](https://github.com/lone-wolf-96/poker-calculator-js/).
+Some other instructions can be found here [Poker Calculator in JavaScript](https://github.com/mr-wolf-rsh/poker-calculator-js/).
 Nevertheless, this is a basic project with one only file.
 
 ## Authors
 
-* **LoneWolf96** - *Final work* - [lone-wolf-96](https://github.com/lone-wolf-96/)
+* **Renzo S.** - *Final work* - [mr-wolf-rsh](https://github.com/mr-wolf-rsh/)
 
 ## Contributing
 
